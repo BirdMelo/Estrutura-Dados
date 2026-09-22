@@ -8,7 +8,7 @@ class Node:
         self.next = None
 class Linked_list:
     """Classe para representar uma lista encadeada
-    Attrbutes:
+    Attributes:
         head(any): Elemento que está no inicio da lista usada como ponto de referencia da lista
         length(int): Tamanho da lista encadeada"""
     def __init__(self):
